@@ -7,7 +7,7 @@ Google Collab
 
 # Program
 
-Ideal Sampling
+# Ideal Sampling
 
 ```
 import numpy as np
@@ -57,7 +57,7 @@ plt.tight_layout()
 plt.show()
 
 ```
-Natural Sampling 
+# Natural Sampling 
 
 ```
 import numpy as np
@@ -119,7 +119,7 @@ plt.tight_layout()
 plt.show()
 
 ```
-Flat-Top Sampling
+# Flat-Top Sampling
 
 ```
 import numpy as np
